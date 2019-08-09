@@ -39,7 +39,7 @@ Read carefully and follow all steps.
     - Goto insert and in password section make sure you select the md5 function. 
     (DEFAULT USER: USERNAME:demo1,PASSWORD:demo@123)
     
- # **3.ENABLE AUTO MESSAGING**
+ # **4.ENABLE AUTO MESSAGING**
     - ADD a new cronjob (eg:-Everyday at 10 am)
       (0 10 * * * wget -O - http://your.url/api/auto_wishes_user_start.php?key=shshajh328jjkq91)
       
