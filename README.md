@@ -20,7 +20,7 @@ Read carefully and follow all steps.
 # **1.BACKEND**
     - Import auto-sms-wisher.sql file in your Database.
     - Go to **api/** folder and enter your DB credentials 
-    (BY DEFAULT: USER: root, DBNAME: bday, PASSWORD: )
+    (BY DEFAULT USER: root, DBNAME: bday, PASSWORD: )
     - db_connect.php
     - login_check.php
     - db.class.php
