@@ -36,7 +36,7 @@ Read carefully and follow all steps.
     - In **nav/header.php** edit $url and include your website address.
       (BY DEFAULT $url=http://localhost/birthday)
     - Enter your credentials and login.
-![url edit](https://github.com/sa1if3/auto-sms-wisher/blob/readme-edit/url.PNG)
+
  # **3.USER CREATION**
     - Goto phpmyadmin.
     - Navigate to your db.user_table.
