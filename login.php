@@ -62,7 +62,11 @@
         </div>
         <div class="col-lg-12" style="text-align: center">
         Copyright &COPY; All Right Reserved.<br/>
+
      <a href="https://in.linkedin.com/in/mdsaifur" target="_blank">Md. Saifur Rahman</a>
+
+    By <a href="https://in.linkedin.com/in/mdsaifur" target="_blank">Md. Saifur Rahman</a>
+
     </div>
         
         <!-- /.col -->
