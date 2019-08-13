@@ -1,4 +1,4 @@
-# auto-sms-wisher
+# auto-sms-wisher | Birthday Wisher
 PHP based AUTO SMS WISHER using pingsms.in API
 
 auto-sms-wisher is created fully using PHP. The code written here is for Birthday Wishes but can be easily configured to serve other purposes.
