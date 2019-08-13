@@ -62,7 +62,7 @@
         </div>
         <div class="col-lg-12" style="text-align: center">
         Copyright &COPY; All Right Reserved.<br/>
-    Powered by <a href="https://techmion.com" target="_blank">Techmion</a>|<a href="https://pingsms.in" target="_blank">PingSMS</a>
+     <a href="https://in.linkedin.com/in/mdsaifur" target="_blank">Md. Saifur Rahman</a>
     </div>
         
         <!-- /.col -->
