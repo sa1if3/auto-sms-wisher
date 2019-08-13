@@ -1,6 +1,7 @@
 <?php
 if($_SESSION["pword"])
 {
+
 $key=$_SESSION["akey"];
 
 $curl = curl_init();

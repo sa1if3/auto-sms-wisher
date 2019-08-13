@@ -8,6 +8,7 @@ $phone1=$_POST['phone1'];
 $msg1=$_POST['msg1'];
 //$msg1=urlencode($msg_post);
 
+
 $curl = curl_init();
 
 curl_setopt_array($curl, array(
