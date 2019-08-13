@@ -47,5 +47,9 @@ Read carefully and follow all steps.
     - ADD a new cronjob (eg:-Everyday at 10 am)
       (0 10 * * * wget -O - http://your.url/api/auto_wishes_user_start.php?key=shshajh328jjkq91)
       
-  
+  # **5.GET https://pingsms.in API KEY**
+        -Sign Up in https://pingsms.in
+        -Get API Key from Developer API Tab
+   ![API_KEY](https://github.com/sa1if3/auto-sms-wisher/blob/master/api-key.png)
+   
   **ENJOY :)**
