@@ -9,7 +9,7 @@ auto-sms-wisher is created fully using PHP. The code written here is for Birthda
 
 1. MD5 based login system.
 2. Send Quick SMS wishes.
-3. Send Sheduled SMS wishes.
+3. Send Scheduled SMS wishes.
 4. Variable based message.
 5. Quick Edit Client details. 
 6. Quick Edit API Key, Message format.
