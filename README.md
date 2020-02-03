@@ -1,4 +1,5 @@
 # auto-sms-wisher | Birthday Wisher
+(Not Implemented in any Framework)
 PHP based AUTO SMS WISHER using pingsms.in API
 
 auto-sms-wisher is created fully using PHP. The code written here is for Birthday Wishes but can be easily configured to serve other purposes.
@@ -28,6 +29,7 @@ Read carefully and follow all steps.
     - db.class.php
     - msg_echo.php
     - api_echo.php
+    - auto_wishes_user_start.php
 ![Default DB](https://github.com/sa1if3/auto-sms-wisher/blob/readme-edit/db.png)
       
  # **2.FRONTEND**
