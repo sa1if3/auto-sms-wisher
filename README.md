@@ -1,4 +1,5 @@
-# auto-sms-wisher
+# auto-sms-wisher | Birthday Wisher
+(Not Implemented in any Framework)
 PHP based AUTO SMS WISHER using pingsms.in API
 
 auto-sms-wisher is created fully using PHP. The code written here is for Birthday Wishes but can be easily configured to serve other purposes.
@@ -9,7 +10,7 @@ auto-sms-wisher is created fully using PHP. The code written here is for Birthda
 
 1. MD5 based login system.
 2. Send Quick SMS wishes.
-3. Send Sheduled SMS wishes.
+3. Send Scheduled SMS wishes.
 4. Variable based message.
 5. Quick Edit Client details. 
 6. Quick Edit API Key, Message format.
@@ -28,6 +29,7 @@ Read carefully and follow all steps.
     - db.class.php
     - msg_echo.php
     - api_echo.php
+    - auto_wishes_user_start.php
 ![Default DB](https://github.com/sa1if3/auto-sms-wisher/blob/readme-edit/db.png)
       
  # **2.FRONTEND**
@@ -47,5 +49,9 @@ Read carefully and follow all steps.
     - ADD a new cronjob (eg:-Everyday at 10 am)
       (0 10 * * * wget -O - http://your.url/api/auto_wishes_user_start.php?key=shshajh328jjkq91)
       
-  
+  # **5.GET https://pingsms.in API KEY**
+        -Sign Up in https://pingsms.in
+        -Get API Key from Developer API Tab
+   ![API_KEY](https://github.com/sa1if3/auto-sms-wisher/blob/master/api-key.png)
+   
   **ENJOY :)**

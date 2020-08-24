@@ -78,7 +78,7 @@ function post()
 function post_msg()
 {
   var msg= document.getElementById('Inputmsg2').value;
-  var uid= "<?php echo $_SESSION['id'];?>";
+  var uid=<?php include 'api/api_echo.php'; ?>;
   
   if(uid && msg)
   {
